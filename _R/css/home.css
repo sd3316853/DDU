@@ -1,0 +1,122 @@
+/*
+* @Author: Administrator
+* @Date:   2017-08-03 10:21:02
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-08-04 19:22:42
+*/
+.mian {
+	width:100%;
+	height: 100%;
+	background-color: #f6f6f6;
+}
+
+
+.main_list {
+	background-color: #fff;
+	height: 70px;
+	line-height: 70px;
+}
+.main_list >ul{
+	width: 676px;
+	margin:0 auto;
+	font-size: 0px;
+	height:70px;
+}
+.main_list > ul >li {
+	display: inline-block;
+	font-size: 18px;
+}
+.main_list > ul > li > a {
+	display:block;
+	height:66px;
+}
+.main_list > ul >li:nth-of-type(1) > a {
+	margin-right:58px;
+}
+
+.main_list > ul > li:nth-of-type(2) > a {
+
+	padding:0 13px;
+}
+.main_list > ul >li:nth-of-type(3) > a {
+	margin-left:60px;
+}
+.main_list > ul >li:nth-of-type(4) > a {
+	margin-left:80px;
+}
+
+.main_list_zj {
+	height: 120px;
+	line-height:120px;
+	width: 1212px;
+	margin:0 auto;
+}
+.main_list_zj>ul{
+	margin-left:105px;
+	font-size: 0;
+}
+.main_list_zj>ul>li{
+	font-size: 16px;
+	display:inline-block;
+}
+.main_list_zj>ul>li:nth-of-type(2)>a{
+	margin:0 22px 0 36px;
+}
+.main_list_zj>ul>li:nth-of-type(3)>a{
+	padding:6px 10px 13px 10px;
+	margin-right:22px;
+}
+.main_list_zj>ul>li:nth-of-type(4)>a{
+	margin-right:33px;
+}
+.main_list_zj>ul>li:nth-of-type(5)>a{
+	margin-right:35px;
+}
+.main_list_zj>ul>li .abg{
+	background: url('../images/dh.png') no-repeat;
+	background-size:100% 100%;
+	color:#fff;
+}
+.main_conter {
+	width: 1201px;
+	margin:0 auto;
+}
+.main_conter > ul {
+	font-size: 0;
+}
+.main_conter > ul > li {
+	width: 280px;
+	height:404px;
+	display:inline-block;
+	background-color:#fff;
+	font-size: 14px;
+}
+.main_conter > ul > li > a {
+	display:block;
+	height:260px;
+	border-bottom:1px solid #eeeeee;
+	line-height:260px;
+	text-align:center;
+}
+.marr_27{
+	margin-right:27px;
+}
+.marb_23{
+	margin-bottom:23px;
+}
+.marl_16{
+	margin-left:16px;
+}
+.marl_19{
+	margin-left:19px;
+}
+
+.main_conter > ul > li > h3 {
+	font-size: 16px;
+	margin:20px 0 20px 49px;
+}
+.main_conter > ul > li > p {
+	margin-right:20px;
+	margin-left:20px;
+}
+

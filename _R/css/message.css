@@ -1,0 +1,76 @@
+/*
+* @Author: Administrator
+* @Date:   2017-08-04 19:56:15
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-08-04 21:10:27
+*/
+.main {
+	width: 100%;
+	height: 781px;
+	background: url('../images/bg.png') no-repeat;
+	background-size: 100% 100%;
+}
+.message_box {
+	width: 841px;
+	margin: 72px auto 0;
+}
+.message_box > ul {
+	margin-left: 124px;
+}
+.message_xq {
+	margin-bottom: 23px;
+}
+.message_xq >label {
+	display: inline-block;
+	font-size: 18px;
+	width: 110px;
+	text-align: right;
+
+}
+.message_xq >label>i{
+	display: inline-block;
+	width: 11px;
+	height: 11px;
+	background: url('../images/xh.png');
+	background-size: 100% 100%;
+	margin-right: 10px;
+	margin-bottom: 4px;
+}
+.message_xq > input {
+	width: 299px;
+	height: 35px;
+	border: 1px solid #ccc;
+}
+.message_xq:nth-of-type(5){
+	position: relative;
+}
+.message_xq:nth-of-type(5)>label{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.message_xq:nth-of-type(5)>p{
+	display: inline-block;
+	width: 700px;
+	height: 200px;
+	border: 1px solid #ccc;
+	margin-left: 113px;
+}
+.message_xq:nth-of-type(6)>input {
+	width: 131px;
+	margin-right: 5px;
+}
+.message_box >button {
+	width:340px ;
+	height: 66px;
+	background-color: #faba00;
+	font-size: 33px;
+	border: 0;
+	color: #fff;
+	margin-left: 237px;
+	
+}
+
+
+
+
